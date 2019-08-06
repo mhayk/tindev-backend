@@ -1,0 +1,17 @@
+{
+  "name": "tindev-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mhayk/tindev-backend.git",
+  "author": "Mhayk Whandson <hi@mhayk.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
